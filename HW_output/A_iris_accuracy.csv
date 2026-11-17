@@ -1,0 +1,4 @@
+"Model","Accuracy"
+"CART",0.866666666666667
+"Random Forest",0.9
+"XGBoost",0.933333333333333
